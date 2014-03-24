@@ -1,7 +1,7 @@
 HPC CUDA
 =====
 
-Introduction to Parallel Programming class code
+High Pserformance Computing Semenar CUDA homework code
 
 # Building on OS X
 
