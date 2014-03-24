@@ -1,4 +1,4 @@
-cs344
+HPC CUDA
 =====
 
 Introduction to Parallel Programming class code
